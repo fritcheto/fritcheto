@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header {
+    background-color: #ff4081;
+    color: white;
+    padding: 30px 0;
+}
+.premium {
+    padding: 40px 20px;
+}
+.premium ul {
+    list-style: none;
+    padding: 0;
+}
+.premium li {
+    margin: 10px 0;
+}
+form input[type="submit"] {
+    background-color: #ff4081;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+}
+form input[type="submit"]:hover {
+    background-color: #e73370;
+}
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #eee;
+}
